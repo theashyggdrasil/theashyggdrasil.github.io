@@ -38,10 +38,10 @@ hr.star-light {
   border-color: #fff;
 }
 
-hr.star-light:after {
-  color: #fff;
-  background-color: #18BC9C;
-}
+    hr.star-light:after {
+        color: #fff;
+        background-color: ##3A4F72;
+    }
 
 hr.star-dark {
   border-color: #2C3E50;
@@ -114,17 +114,17 @@ section h2 {
   color: #fff;
 }
 
-#mainNav .navbar-nav li.nav-item a.nav-link:hover {
-  color: #18BC9C;
-}
+    #mainNav .navbar-nav li.nav-item a.nav-link:hover {
+        color: ##3A4F72;
+    }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
   color: #fff;
 }
 
-#mainNav .navbar-nav li.nav-item a.nav-link.active {
-  color: #18BC9C;
-}
+    #mainNav .navbar-nav li.nav-item a.nav-link.active {
+        color: ##3A4F72;
+    }
 
 #mainNav .navbar-toggler {
   font-size: 80%;
@@ -152,10 +152,10 @@ section h2 {
     color: #fff;
     background: #18BC9C;
   }
-  #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
-    color: #fff;
-    background: #18BC9C;
-  }
+    #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
+        color: #fff;
+        background: ##3A4F72;
+    }
   #mainNav.navbar-shrink {
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
@@ -332,7 +332,7 @@ form .row:first-child .floating-label-form-group {
 }
 
 a {
-  color: #18BC9C;
+    color: ##3A4F72;
 }
 
 a:focus, a:hover, a:active {
