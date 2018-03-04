@@ -148,10 +148,10 @@ section h2 {
   #mainNav .navbar-nav {
     margin-top: 0;
   }
-  #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
-    color: #fff;
-    background: #18BC9C;
-  }
+    #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
+        color: #fff;
+        background: #3A4F72;
+    }
     #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
         color: #fff;
         background: #3A4F72;
@@ -313,7 +313,7 @@ header.masthead h2 {
 }
 
 .floating-label-form-group-with-focus label {
-  color: #18BC9C;
+    color: #3A4F72;
 }
 
 form .row:first-child .floating-label-form-group {
@@ -332,7 +332,7 @@ form .row:first-child .floating-label-form-group {
 }
 
 a {
-    color: ##3A4F72;
+    color: #3A4F72;
 }
 
 a:focus, a:hover, a:active {
